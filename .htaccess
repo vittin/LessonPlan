@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^$ start.html
+RewriteRule ^kl$ start.html
+RewriteRule ^kl/(.+)$ index.php?kl=$1

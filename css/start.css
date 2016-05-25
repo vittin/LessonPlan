@@ -1,0 +1,9 @@
+.btn-container {
+    margin-bottom: 35px;
+    min-width: 100px;
+}
+#inputName {
+    display: none;
+    box-sizing: border-box;
+    width: 100%;
+}

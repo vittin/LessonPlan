@@ -1,0 +1,84 @@
+p {
+    min-height: 26px;
+    overflow: hidden;
+}
+@media screen and (max-width: 985px) {
+    p {
+        font-size: 14px;
+    }
+}
+.plan {
+    margin: 0 auto;
+}
+#settings {
+    position: absolute;
+    z-index: 1;
+    display: none;
+}
+.nameLabel {
+    color: #6a6a6a;
+}
+#nr > div {
+    min-height: 26px;
+}
+#nr > p:not(:first-child) {
+    color: black;
+}
+#godz > p:not(:first-child) {
+    color: black;
+}
+.plan>div>p:hover {
+    background-color: #FFD700;
+}
+.plan > div > *:first-child {
+    background-color: #FFCC00;
+}
+.plan > div > p:nth-child(2) {
+    background-color: #E2E2E2;
+    color: #868686;
+}
+
+.plan > div > * {
+    border: 1px solid black;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    font-style: italic;
+    margin-bottom: 5px;
+    height: 24px;
+}
+.glyphicon-cog {
+    max-height: 22px;
+}
+.glyphicon-sort {
+    margin-top: 3px;
+}
+.hidden{
+    visibility: hidden;
+}
+.highlighted {
+    color: black; !important;
+}
+.row.no-gutter {
+    margin-left: 0;
+    margin-right: 0;
+}
+.row.no-gutter [class*='col-']:not(:first-child),
+.row.no-gutter [class*='col-']:not(:last-child) {
+    padding-right: 1px;
+    padding-left: 1px;
+}
+.rw {
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer */
+    -khtml-user-select: none; /* KHTML browsers (e.g. Konqueror) */
+    -webkit-user-select: none; /* Chrome, Safari, and Opera */
+    -webkit-touch-callout: none; /* Disable Android and iOS callouts*/
+    display: inline-block;
+    height: 22px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.slash {
+    padding-left: 3px;
+    padding-right: 3px;
+}

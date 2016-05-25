@@ -1,0 +1,1 @@
+TODO: 1.Dynamiczne ładowanie treści (zapytania ajax zamiast querystringi w html); 2.Nagłówek w admin/index.html;
