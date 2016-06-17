@@ -1,7 +1,7 @@
 # Important Note
 
-Lesson plan created for my school. Include RESTfull admin panel and read-only page for students.
-However, version at planlekcji.esy.es has unlocked admin account (no password) for show full functionality, i don't response for any content which may appear there.
+Lesson plan was created for my school. It contains RESTfull admin panel and read-only page for students.
+However, version at planlekcji.esy.es has unlocked admin account (no password) for show full functionality, so i don't response for any content which may appear there.
 
 # Page for student
 
@@ -17,3 +17,25 @@ Click the settings icon at upper-right corner. Then you will see all hidden less
 img
 
 # Page for teacher
+
+img
+
+All lessons are block elements. They are immutable like Strings - if you create one, you can't edit it. Instead, you should delete this and create new one. Why? Becouse you are supported by powerfull, smart tips, typos are alomst impossible. So like in real world, you rather want to replace one lesson by another one, than editing existing one. 
+
+
+<b> 1. Adding a lesson </b>
+
+text
+
+<b> 2. Deleting a lesson </b>
+
+text
+
+<b> 3. Adding more than one lesson in one row </b>
+
+text
+
+
+<b> 4. Save, restore ale wipe options </b>
+
+text
