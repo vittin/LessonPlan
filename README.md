@@ -1,7 +1,7 @@
 # Important Note
 
 Lesson plan was created for my school. It contains RESTfull admin panel and read-only page for students and full responsive desing.
-However, version at planlekcji.esy.es has unlocked admin account (no password) for show full functionality, so i don't response for any content which may appear there.
+However, version at planlekcji.esy.es has disabled admin account (no login and password) for show full functionality, so i don't response for any content which may appear there.
 
 # Page for student
 
@@ -12,8 +12,9 @@ Students can't edit global plan. But if you want, you can locally hide uninteres
 It's simple - just double-click on one of them. 
 After click, all usages of this lesson will be hidden.
 Your preferences will be automatically save in cookie.
-You can easily restore invisible lesson too (of course without clear cookies).
-Click the settings icon at upper-right corner. Then you will see all hidden lesson. Clicking on any of them will restore it.
+You can easily restore invisible lesson too (of course without clear cookies). To do this:
+1. Click the settings icon at upper-right corner. You will see all hidden lesson. 
+2. Click on any lessson you want to restore.
 
 ![planforstudentshidden](https://cloud.githubusercontent.com/assets/9084222/16149668/b0a0d78c-3492-11e6-8f06-d0b84a3dd9db.png)
 
