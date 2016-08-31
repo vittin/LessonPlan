@@ -1,7 +1,7 @@
 # Important Note
 
 Lesson plan was created for my school. It contains RESTfull admin panel and read-only page for students and full responsive desing.
-However, version at planlekcji.esy.es has disabled admin account (no login and password) for show full functionality, so i don't response for any content which may appear there.
+However, version at planlekcji.esy.es has open admin account (no login and password) for show full functionality, so i don't response for any content which may appear there.
 
 # Page for student
 
